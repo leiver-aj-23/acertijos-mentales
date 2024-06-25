@@ -16,6 +16,8 @@ public class Main {
         casoSiete casosiete = new casoSiete();
         casoOcho casoocho = new casoOcho();
 
+
+
         while (nivel <= 8) {
             System.out.println("¡Bienvenido al Nivel " + nivel + "!");
 
